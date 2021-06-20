@@ -1,8 +1,23 @@
 {
-  "name": "blog",
+  "name": "junseong-park",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Junseongparkme/Junseongparkme.github.io.git",
-  "author": "Junseong Park <junseongpark.dev@gmail.com>",
-  "license": "MIT"
+  "private": true,
+  "description": "Junseong Park",
+  "author": "Junseong Park",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.6.2",
+    "gatsby-plugin-gatsby-cloud": "^2.7.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
