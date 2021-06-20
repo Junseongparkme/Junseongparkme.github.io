@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Junseongparkme/Junseongparkme.github.io.git",
+  "author": "Junseong Park <junseongpark.dev@gmail.com>",
+  "license": "MIT"
+}
