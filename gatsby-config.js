@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Junseong Park WoW',
+    title: 'Junseong Park',
   },
   plugins: [
     'gatsby-plugin-gatsby-cloud',
