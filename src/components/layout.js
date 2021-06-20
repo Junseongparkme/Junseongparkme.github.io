@@ -6,7 +6,7 @@ import {
   heading,
   navLinkItem,
   navLinkText,
-} from '../../public/style.module.css';
+} from './style.module.css';
 
 const Layout = ({ pageTitle, children }) => {
   return (
